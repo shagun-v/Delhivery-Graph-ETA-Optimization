@@ -12,7 +12,7 @@ The objective of this project is to model the logistics network as a directed gr
 
 **Streamlit Application:**
 
-[https://traffic-analysis-app-ezse6aeztkgddqsgeasgan.streamlit.app](https://delhivery-graph-eta-optimization-ra5y3jej4bpfkbmgn8kuyo.streamlit.app/)
+https://delhivery-graph-eta-optimization-ra5y3jej4bpfkbmgn8kuyo.streamlit.app/
 
 The dashboard provides:
 
