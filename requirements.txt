@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+scikit-learn
+xgboost
+node2vec
+gensim
+plotly
+streamlit
+pyvis
