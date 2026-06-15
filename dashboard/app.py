@@ -8,9 +8,9 @@ st.set_page_config(page_title="Delhivery Network Intelligence", layout="wide")
 # ── Load pre-computed artifacts ──────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    corridor_agg = pd.read_csv('corridor_agg.csv')
-    bottleneck_df = pd.read_csv('bottleneck_df.csv')
-    model_comparison = pd.read_csv('model_comparison.csv')
+    corridor_agg = pd.read_csv("dashboard/corridor_agg.csv")
+    bottleneck_df = pd.read_csv("dashboard/bottleneck_df.csv")
+    model_comparison = pd.read_csv("dashboard/model_comparison.csv")
     return corridor_agg, bottleneck_df, model_comparison
 
 corridor_agg, bottleneck_df, model_comparison = load_data()
