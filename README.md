@@ -153,35 +153,6 @@ The analysis successfully identified:
 * Plotly
 * Streamlit
 
----
-
-## Repository Structure
-
-```text
-Delhivery-Graph-ETA-Optimization/
-
-├── README.md
-├── requirements.txt
-
-├── notebook/
-│   └── Delhivery_Graph_ETA_Optimization.ipynb
-
-├── dashboard/
-│   ├── app.py
-│   ├── bottleneck_df.csv
-│   ├── corridor_agg.csv
-│   ├── model_comparison.csv
-│   └── requirements.txt
-
-├── reports/
-│   ├── Delhivery_Strategy_Memo.pdf
-│   └── Delhivery_Presentation_Deck.pdf
-
-└── results/
-    ├── top_bottleneck_hubs.csv
-    ├── corridor_analysis.csv
-    └── model_performance.csv
-```
 
 ---
 
